@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Mark",
+    "image": "https://i.smalljoys.me/2017/07/2-peopleofwalmart.jpg?resize=696%2C515&ssl=1&strip=all",
+    "hobbies": "Beetle fighting"
+    
+  },
+  {
+    "id": 2,
+    "name": "Wanda",
+    "image": "http://peopleofwalmart.com/wp-content/uploads/2009/08/211.jpg",
+    "hobbies": "Restaurant Owner"    
+  },
+  {
+    "id": 3,
+    "name": "Mary",
+    "image": "https://i.imgur.com/rpD83iy.jpg",
+    "hobbies": "Suing"
+  },
+  {
+    "id": 4,
+    "name": "Donald",
+    "image": "https://i.kym-cdn.com/photos/images/original/000/828/904/071.jpg",
+    "hobbies": "Boy Genius"
+    
+  },
+  {
+    "id": 5,
+    "name": "Cathy",
+    "image": "https://theoldmanclub.com/wp-content/uploads/2017/05/Youll-Find-Some-Weird-People-Shopping-At-Walmart.jpg",
+    "hobbies": "Geocaching"   
+  },
+  {
+    "id": 6,
+    "name": "Mason",
+    "image": "https://www.maxim.com/.image/t_share/MTU0NzA3MTIzOTYyMzg5ODMw/yodeling-kid-walmart.jpg",
+    "hobbies": "Yodeler"
+  },
+  {
+    "id": 7,
+    "name": "Kolton",
+    "image": "https://www.sunnyskyz.com/uploads/2014/07/y309k-walmart10.jpg",
+    "hobbies": "Element Collector"
+  },
+  {
+    "id": 8,
+    "name": "Pat",
+    "image": "https://thechive.files.wordpress.com/2018/04/people_of__walmart_23_4_2018_11_39_19_84.jpg?quality=85&strip=info&w=600",
+    "hobbies": "Soap carving"
+    
+  },
+  {
+    "id": 9,
+    "name": "Nicki",
+    "image": "http://tribzap2it.files.wordpress.com/2011/02/walmart-horns-guy.jpg?w=1400",
+    "hobbies": "Adventurer"
+  },
+  {
+    "id": 10,
+    "name": "Jake",
+    "image": "https://www.sunnyskyz.com/uploads/2014/07/8gm88-walmart23.jpg",
+    "hobbies": "Cashier"
+    
+  },
+  {
+    "id": 11,
+    "name": "Doug",
+    "image": "https://famepace.com/wp-content/uploads/2017/11/People-of-Walmart-3.jpg",
+    "hobbies":  "Dog Watching"
+ 
+  },
+  {
+    "id": 12,
+    "name": "Vicki",
+    "image": "http://www.angelfire.com/ak2/intelligencerreport/images/walmart6m.jpg",
+    "hobbies": "Knitting"
+  }
+]
